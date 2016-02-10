@@ -34,7 +34,7 @@ of LED blink software on OSHChip **
 
 4.  Click on 'Download MDK-Core' and fill in additional information
     >on the following page
-    <BR>![Selecting Download MDK-Core](images/2-1-kei-click.PNG)
+    <BR>![Selecting Download MDK-Core](images/2-1-keil-click.PNG)
 
 5.  Click on '   ' to finally download the latest KEIL-MDK.
 <BR>
