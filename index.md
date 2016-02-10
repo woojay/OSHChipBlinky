@@ -9,8 +9,7 @@ modified: 2016-02-09
 
 ## OSHChip: The Blinky Tutorial
 
-** This short guide will walk you through the toolchain set up and installation
-of LED blink software on OSHChip **
+** This short guide will walk you through the toolchain set up and installation of LED blink software on OSHChip **
 
 ### Tools you need
 - Browser with internet connection
@@ -24,9 +23,9 @@ of LED blink software on OSHChip **
 - nRF5 SDK Zipped version
 
 ### 1.  Search for 'KEIL MDK' on a browser.
-    <BR>
-    ![Googling KEIL MDK](images/1-google-click.PNG)
-    <P>
+<BR>
+![Googling KEIL MDK](images/1-google-click.PNG)
+<P>
 
 ### 2.  Click on 'MDK Version 5 - Keil'
     <BR>
