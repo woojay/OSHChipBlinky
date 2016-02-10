@@ -66,6 +66,7 @@ modified: 2016-02-09
 
 ### 8.  Select the Zip file version and then click on 'packs' for packs version. <BR> 
 We need both packs and zip versions for this tutorial. <BR>
+
 ![Selecting nRF5_SDK .zip file and then packs folder](images/3-2-nordic-dev-click.PNG)
 
 
