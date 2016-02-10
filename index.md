@@ -23,20 +23,20 @@ of LED blink software on OSHChip **
 - nRF5 SDK Packed version
 - nRF5 SDK Zipped version
 
-### 1.  Search for 'KEIL MDK' on a browser. ###
+### 1.  Search for 'KEIL MDK' on a browser.
     <BR>![Googling KEIL MDK](images/1-google-click.PNG)
     <P>
 
-### 2.  Click on 'MDK Version 5 - Keil' ### 
+### 2.  Click on 'MDK Version 5 - Keil' 
     <BR>![Selecting MDK Version 5](images/1-1-google-click.PNG)
     <P>
 
-### 3.  Click on 'Download & Install' ### 
+### 3.  Click on 'Download & Install'
     <BR>![Selecting Download & Install](images/2-keil-click.PNG)
     <P>
 
 ### 4.  Click on 'Download MDK-Core' and fill in additional information 
-on the following page ###
+on the following page
     <BR>![Selecting Download MDK-Core](images/2-1-keil-click.PNG)
     <P>
 
