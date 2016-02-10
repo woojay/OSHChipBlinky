@@ -40,29 +40,28 @@ on the following page
     <BR>![Selecting Download MDK-Core](images/2-1-keil-click.PNG)
     <P>
 
-### 5.  Click on '   ' to finally download the latest KEIL-MDK. ### 
+### 5.  Click on '   ' to finally download the latest KEIL-MDK.
 <BR>
     <P>
 
-### 6.  Point your browser to 'http://developer.nordicsemi.com' and
-click on 'nRF5_SDK' location.### 
-    <BR>![Selecting nRF5_SDK at http://developer.nordicsemi.com](images/3-nirdic dev-click.PNG)
+### 6.  Point your browser to 'http://developer.nordicsemi.com' and click on 'nRF5_SDK' location.
+    <BR>![Selecting nRF5_SDK at http://developer.nordicsemi.com](images/3-nirdic\ dev-click.PNG)
     <P>
 
-### 7.  Select the latest version of nRF5_SDK (11.x.x in this case) ### 
-    <BR>![Selecting nRF5_SDK_v11.x.x](images/2-1-nordic dev-click.png)
+### 7.  Select the latest version of nRF5_SDK (11.x.x in this case)
+    <BR>![Selecting nRF5_SDK_v11.x.x](images/2-1-nordic\ dev-click.png)
     <P>
 
-### 8.  Select the Zip file version and then click on 'packs' for packs version ### 
+### 8.  Select the Zip file version and then click on 'packs' for packs version
     >We need both packs and zip versions for this tutorial
-    <BR>![Selecting nRF5_SDK .zip file and then packs folder](images/3-2-nordic dev-click.PNG)
+    <BR>![Selecting nRF5_SDK .zip file and then packs folder](images/3-2-nordic\ dev-click.PNG)
     <P>
 
-### 9.  Select the packs Zip file ### 
-    <BR>![Selecting nRF5_SDK _packs.zip file](images/3-3-nordic dev-click.PNG)
+### 9.  Select the packs Zip file
+    <BR>![Selecting nRF5_SDK _packs.zip file](images/3-3-nordic\ dev-click.PNG)
     <P>
 
-### 10. Installation help for installing Packs (CMSIS Packs) and Zip versions ### 
-    <BR>![Installation steps for Packs and Zip file versions](images/3-0-nordic dev-click.PNG)
+### 10. Installation help for installing Packs (CMSIS Packs) and Zip versions
+    <BR>![Installation steps for Packs and Zip file versions](images/3-0-nordic\ dev-click.PNG)
     <P>
 
