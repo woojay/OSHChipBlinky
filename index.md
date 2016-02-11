@@ -46,15 +46,17 @@ modified: 2016-02-09
 
 
 
-## 4.  Click on 'Download MDK-Core' and fill in additional information on the following page.
+## 4.  Click on 'Download MDK-Core'
 <BR>
 ![Selecting Download MDK-Core](images/2-1-keil-click.PNG)
 
 
+## 5.  Supply contact information and click on 'Submit'
+![Supplying information and selecting Download](images/2-2-keil-click.PNG)
 
 
 ## 5.  Click on '   ' to finally download the latest KEIL-MDK.
-
+<BR>
 
 
 
