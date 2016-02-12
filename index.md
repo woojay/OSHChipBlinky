@@ -99,7 +99,7 @@ We need both packs and zip versions for this tutorial. <BR>
 
 ## 11.  Connect the hardware.  The BLE radio is connected to a USB power and J-Link adapter is plugged into the programming port.  It may install additional drivers at this point.
 <BR>
-![Connecting J-Link and radio](images/4-0-HW setup.jpg)
+![Connecting J-Link and radio](images/4-0-HW setup.png)
 
 
 
@@ -207,7 +207,7 @@ We need both packs and zip versions for this tutorial. <BR>
 
 ## 26.  It works!
 <BR>
-![Picture of the LED blinking](images/4-18-arm5_no_packs.png)
+![Picture of the LED blinking](images/4-18.png)
 
 
 
