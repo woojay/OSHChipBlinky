@@ -4,7 +4,7 @@ excerpt: "OSHChip Blinky Tutorial"
 tags: [OSHChip, nRF51822, BLE, Bluetooth Low Energy, Bluetooth Smart, Blinky, Tutorial]
 categories: [Electronics]
 comments: false
-modified: 2016-02-09
+modified: 2016-02-12
 ---
 
 # OSHChip: The Blinky Tutorial
@@ -15,12 +15,14 @@ modified: 2016-02-09
 - Browser with internet connection
 - Computer with MS Windows
 - OSHChip
+- J-Link Programmer
 
 
 ## Tools you will install
-- KEIL-MDK 5
-- nRF5 SDK Packed version
-- nRF5 SDK Zipped version
+- ![KEIL-MDK 5](http://www.keil.com/mdk5)
+- ![nRF5 SDK Packed version](http://developer.nordicsemi.com/nRF5_SDK)
+- ![nRF5 SDK Zipped version](http://developer.nordicsemi.com/nRF5_SDK)
+
 
 
 
@@ -52,11 +54,13 @@ modified: 2016-02-09
 
 
 ## 5.  Supply contact information and click on 'Submit'
+<BR>
 ![Supplying information and selecting Download](images/2-2-keil-click.PNG)
 
 
-## 5.  Click on '   ' to finally download the latest KEIL-MDK.
+## 5.  Click on 'MDKxxx' to finally download the latest KEIL-MDK.  MDK518.exe shown below.
 <BR>
+![Selecting file name MDKxxx.exe to download](images/2-3-keil.png)
 
 
 
