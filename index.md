@@ -19,9 +19,9 @@ modified: 2016-02-12
 
 
 ## Tools you will install
-- ![KEIL-MDK 5](http://www.keil.com/mdk5)
-- ![nRF5 SDK Packed version](http://developer.nordicsemi.com/nRF5_SDK)
-- ![nRF5 SDK Zipped version](http://developer.nordicsemi.com/nRF5_SDK)
+- [KEIL-MDK 5](http://www.keil.com/mdk5)
+- [nRF5 SDK Packed version](http://developer.nordicsemi.com/nRF5_SDK)
+- [nRF5 SDK Zipped version](http://developer.nordicsemi.com/nRF5_SDK)
 
 
 
